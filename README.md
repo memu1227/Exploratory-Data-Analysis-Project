@@ -1,7 +1,9 @@
 # Exploratory Data Analysis Project
 
 This project is part of Coursera's Exploratory Data Analysis Course offered by Johns Hopkins University. 
+
 This assignment uses data from the [UC Irvine Machine Learning Repository.](http://archive.ics.uci.edu/ml/)
+
 *Description of Dataset:* Measurements of electric power consumption in one household with a one-minute sampling rate over a period of almost 4 years. Different electrical quantities and some sub-metering values are available
 
 Description of the variables used (taken from UCI website): 
